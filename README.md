@@ -1,4 +1,5 @@
 ## Python
+https://drive.google.com/file/d/1b02oAcBiO9dHmjo8P0DF9aOMYPir8j0v/view?usp=drive_link <br>
 https://www.python.org/ftp/python/3.13.7/python-3.13.7-amd64.exe <br>
 ## Anaconda
 https://repo.anaconda.com/archive/Anaconda3-2025.06-0-Windows-x86_64.exe

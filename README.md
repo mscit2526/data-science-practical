@@ -1,3 +1,5 @@
+## Java JDK
+https://drive.google.com/file/d/1iVuCBSORIdXDDiOg6l9cqITTP_kEQlyr/view?usp=drive_link
 ## Python
 https://www.python.org/ftp/python/2.7.17/python-2.7.17.amd64.msi <br>
 ## Anaconda
